@@ -23,7 +23,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.android.devbyteviewer.viewmodels.DevByteViewModel" />
+            type="com.rithwan.repository.patterns.viewmodels.DevByteViewModel" />
     </data>
 
     <FrameLayout

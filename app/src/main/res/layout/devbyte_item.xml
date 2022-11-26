@@ -24,11 +24,11 @@
 
         <variable
             name="video"
-            type="com.example.android.devbyteviewer.domain.DevByteVideo" />
+            type="com.rithwan.repository.patterns.domain.DevByteVideo" />
 
         <variable
             name="videoCallback"
-            type="com.example.android.devbyteviewer.ui.VideoClick" />
+            type="com.rithwan.repository.patterns.ui.VideoClick" />
     </data>
 
     <com.google.android.material.card.MaterialCardView
